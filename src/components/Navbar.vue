@@ -46,15 +46,13 @@ export default {
 </script>
 
 <style scoped>
-*{
-  margin: 0;
-}
+
 .navbar{
   background-color: #fcb800;
   position: fixed !important;
   margin: 0;
   width: 100%;
-  border-bottom: black !;
+  border-bottom: black !important;
   height: 70px;
   z-index: 1000;
 }
