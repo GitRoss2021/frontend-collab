@@ -13,24 +13,24 @@
         <li class="nav-item">
           <a class="nav-link" href="/about">About</a>
         </li>
-        <li class="nav-item dropdown">
+        <!-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="/appliances" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Categories
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
             <li><a class="dropdown-item" href="/cellphones">Cellphones</a></li>
             <li><a class="dropdown-item" href="/television">Television</a></li>
-            <!-- <li><hr class="dropdown-divider"></li> -->
-            <li><a class="dropdown-item" href="/accessories">Accessories</a></li>
+            <li><hr class="dropdown-divider"></li> -->
+            <!-- <li><a class="dropdown-item" href="/accessories">Accessories</a></li>
           </ul>
-        </li>
+        </li> --> 
         <li class="nav-item">
           <a class="nav-link" href="/contact">Contact Us</a>
         </li>
-        <form class="d-flex">
+        <!-- <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
+      </form> -->
        
       </ul>
       
